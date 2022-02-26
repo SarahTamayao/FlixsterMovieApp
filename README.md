@@ -8,7 +8,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-This is first part of a cloned Flixster app movie, where people often search on the app whats trending on the movie theatre and to check which are highly rated movies. This first part of the I just Got the API and parsed to my project and designed a little UI that you can see the top movies trending. You are able to see the top trending movies with a visual Image and also a little description about the movie.
+This is first part of a cloned Flixster app movie, where people often search on the app whats trending on the movie theatre and to check which are highly rated movies. This first part of the app I just Got the API and parsed to my project and designed a little UI that you can see the top movies trending. You are able to see the top trending movies with a visual Image and also a little description about the movie.
 
 #### REQUIRED (10pts)
 - [ x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
