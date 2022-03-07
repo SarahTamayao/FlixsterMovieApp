@@ -17,7 +17,7 @@
 
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/hassan-ibra/FlixsterMovieApp/blob/master/ezgif-1-5590aa28f4.gif" width=250><br>
 
 ---
 
